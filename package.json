@@ -1,6 +1,6 @@
 {
   "name": "sequelize-model-trail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package that helps you track changes to your models, for auditing or versioning. See how a model looked at any stage in its life-cycle and also allows you to Record the user who created the version.",
   "author": {
     "name": "Salman Zafar",
