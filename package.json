@@ -37,7 +37,7 @@
     "npm": ">=3.3"
   },
   "scripts": {
-    "prepare": "npm run build",
+    "build": "npm run build"
   },
   "devDependencies": {
     "sequelize": "^5.14.0"
