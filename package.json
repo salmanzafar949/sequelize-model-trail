@@ -1,0 +1,48 @@
+{
+  "name": "sequelize-model-trail",
+  "version": "1.0.0",
+  "description": "Package that helps you track changes to your models, for auditing or versioning. See how a model looked at any stage in its life-cycle and also allows you to Record the user who created the version.",
+  "author": {
+    "name": "Salman Zafar",
+    "email": "salmanzafar949@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/salmanzafar949/sequelize-model-trail#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmanzafar949/sequelize-model-trail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/salmanzafar949/sequelize-model-trail/issues",
+    "email": "salmanzafar949@gmail.com"
+  },
+  "private": false,
+  "keywords": [
+    "sequelize",
+    "sequelize-plugin",
+    "audit",
+    "paper trail",
+    "audit trail",
+    "trail",
+    "revision",
+    "revisions",
+    "versioning",
+    "nodejs",
+    "sequelize-model-trail",
+    "model-trail"
+  ],
+  "main": "dist/index.js",
+  "engines": {
+    "node": ">=5.0.0",
+    "npm": ">=3.3"
+  },
+  "scripts": {
+    "prepare": "npm run build",
+  },
+  "devDependencies": {
+    "sequelize": "^5.14.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
