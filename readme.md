@@ -27,8 +27,7 @@
     - [User Tracking](#user-tracking)
     - [Contributing](#contributing)
     - [Author](#author)
-    - [Links](#links)
-    - [Upcoming Features](#Upcoming features)
+    - [Upcoming Features](#Upcoming-features)
     - [Support](#support)
     - [Thanks](#thanks)
 
@@ -104,7 +103,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 Contributors:
 [https://github.com/salmanzafar949/sequelize-paper-trail/graphs/contributors](https://github.com/nielsgl/sequelize-model-trail/graphs/contributors)
 
-## Links
+## example
 * [Example application](https://github.com/salmanzafar949/sequelize-model-trail-example)
 
 ## Upcoming features
@@ -126,5 +125,5 @@ Please use:
 This project was inspired by:
 * [sequelize-paper-trail](https://github.com/nielsgl/sequelize-paper-trail)
 
-###Happy Coding.!
+## Happy Coding.!
 
