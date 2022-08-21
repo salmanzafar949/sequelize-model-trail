@@ -96,7 +96,8 @@ Model.update({
 
 ## Author
 
-© [Salman Zafar](https://github.com/salmanzafar949) – [@salmanzafar949](https://twitter.com/salmanzafar949) – nvangalenlast@gmail.com
+© [Salman Zafar](https://github.com/salmanzafar949) – [@salmanzafar949](https://twitter.com/salmanzafar949)
+
 Distributed under the MIT license. See ``LICENSE`` for more information.
 [https://github.com/salmanzafar949/sequelize-model-trail](https://github.com/salmanzafar949/)
 
